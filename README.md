@@ -17,7 +17,6 @@ Project involves using tools such as deep autoencoders, non-negative matrix fact
 - Each Gene was associated with a 67x41x58 matrix representing 3D mouse brain
 - The Allen Mouse Brain Common Coordinate Framework (CCF) was used as the 3D reference atlas
 
-
 ## Requirements
 
 Python 3.9
@@ -26,6 +25,17 @@ Python packages: matplotlib, napari, networkx, nrrd, numpy, os, pandas, pickle, 
 
 ## osNMF Support Code
 https://github.com/abbasilab/osNMF
+
+<!-- LICENSE -->
+## License
+
+Distributed under the License. See `LICENSE` for more information.
+
+<!-- CONTACT -->
+## Contact
+
+Arya Bakhtiar 
+email: bakhtiararya [at] berkeley.edu
 
 ## Version
 Last update: September 2023
