@@ -31,11 +31,5 @@ https://github.com/abbasilab/osNMF
 
 Distributed under the License. See `LICENSE` for more information.
 
-<!-- CONTACT -->
-## Contact
-
-Arya Bakhtiar 
-email: bakhtiararya [at] berkeley.edu
-
 ## Version
 Last update: September 2023
